@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import { CharactersService } from './services/characters.service';
 
-
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
